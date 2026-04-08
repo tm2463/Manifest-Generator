@@ -1,0 +1,10 @@
+{
+  "threshold": "medium",
+  "fileignoreconfig": [
+    {
+      "filename": "*.py",
+      "checksum": ""
+    }
+  ]
+}
+
